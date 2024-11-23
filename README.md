@@ -1,0 +1,2 @@
+# aws_ai_training_course2_into_to_machine_learning
+ 
